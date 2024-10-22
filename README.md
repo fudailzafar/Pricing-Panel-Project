@@ -6,3 +6,5 @@ Welcome to the Pricing Page Panel repository! This project features a simple and
 - **Distinct Pricing Tiers**: Offers three different pricing tiers (Personal, Small Team, Enterprise).
 - **Modern Design**: Styled with a minimalist approach, using modern web fonts and hover effects.
 - **Call-to-Action Buttons**: Encourages users to sign up or start a free trial.
+
+## Project Structure: 
